@@ -37,7 +37,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>The web app that consumes this API is <a href="https://github.com/amejid/hello-react-front-end">here</a></li>
+    <li>The web app that consumes this API is <a href="https://github.com/didierganthier/hello-react-front-end">here</a></li>
   </ul>
 </details>
 
